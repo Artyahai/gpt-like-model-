@@ -1,2 +1,3 @@
 # gpt-like-model-
 decoder-only gpt model trained on wikitext dataset 
+🌟 This project involves the development of a decoder-only GPT-like model trained on the Wikitext dataset. 📚 The model is designed to generate coherent and contextually relevant text based on the input it receives. By leveraging the Wikitext dataset, which consists of a large collection of high-quality, diverse text from Wikipedia articles, the model learns to predict the likelihood of a word given the previous words in the text. 🧠 This implementation aims to demonstrate the capabilities of transformer-based architectures in natural language processing tasks, showcasing their potential in generating human-like text. 💬
